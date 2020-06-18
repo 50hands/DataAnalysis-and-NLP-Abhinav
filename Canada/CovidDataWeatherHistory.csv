@@ -1,0 +1,810 @@
+province_name,date_report,Temperature,Relative Humidity
+Nova Scotia,03-12-2020,31.4,69.05
+Nova Scotia,03/13/2020,34.6,87.74
+Nova Scotia,03/14/2020,41.7,59.96
+Nova Scotia,03/15/2020,31.4,49.87
+Nova Scotia,03/16/2020,26.2,59.39
+Nova Scotia,03/17/2020,28.7,79.29
+Nova Scotia,03/18/2020,36.9,63.83
+Nova Scotia,03/19/2020,34.3,65.94
+Nova Scotia,03/20/2020,41.7,96.59
+Nova Scotia,03/21/2020,41.4,56.73
+Nova Scotia,03/22/2020,24.1,42.37
+Nova Scotia,03/23/2020,26.1,57.74
+Nova Scotia,03/24/2020,34.6,88.79
+Nova Scotia,03/25/2020,34.3,67.4
+Nova Scotia,03/26/2020,33.5,85.29
+Nova Scotia,03/27/2020,33.7,83.03
+Nova Scotia,03/28/2020,40,54.77
+Nova Scotia,03/29/2020,37.6,60.36
+Nova Scotia,03/30/2020,34.7,59.3
+Nova Scotia,03/31/2020,32.4,80.21
+Nova Scotia,04-01-2020,38.4,89.38
+Nova Scotia,04-02-2020,44.9,94.84
+Nova Scotia,04-03-2020,44.5,89.03
+Nova Scotia,04-04-2020,37.2,75.7
+Nova Scotia,04-05-2020,33.3,75.34
+Nova Scotia,04-06-2020,42.2,62.52
+Nova Scotia,04-07-2020,37.4,47.71
+Nova Scotia,04-08-2020,38.8,59.24
+Nova Scotia,04-09-2020,34.2,68.67
+Nova Scotia,04-10-2020,37.7,82.61
+Nova Scotia,04-11-2020,38.9,61.95
+Nova Scotia,04-12-2020,42.8,52.93
+Nova Scotia,04/13/2020,42,86.38
+Nova Scotia,04/14/2020,52.7,71.4
+Nova Scotia,04/15/2020,39.6,80.77
+Nova Scotia,04/16/2020,38.5,63.05
+Nova Scotia,04/17/2020,37.6,50.71
+Nova Scotia,04/18/2020,34.8,76.33
+Nova Scotia,04/19/2020,39.8,55.67
+Nova Scotia,04/20/2020,44.6,62.16
+Nova Scotia,04/21/2020,38.6,57.6
+Nova Scotia,04/22/2020,39.5,74.43
+Nova Scotia,04/23/2020,37.2,49.29
+Nova Scotia,04/24/2020,38.7,69.27
+Nova Scotia,04/25/2020,44.6,55.65
+Nova Scotia,04/26/2020,42.9,52.54
+Nova Scotia,04/27/2020,39,86.87
+Nova Scotia,04/28/2020,34.3,94.63
+Nova Scotia,04/29/2020,37.6,75.18
+Nova Scotia,04/30/2020,38,76.3
+Nova Scotia,05-01-2020,42.3,90.98
+Nova Scotia,05-02-2020,48.6,94.62
+Nova Scotia,05-03-2020,49,58.1
+Nova Scotia,05-04-2020,42.8,97.41
+Nova Scotia,05-05-2020,41,90.14
+Nova Scotia,05-06-2020,45.4,57.14
+Nova Scotia,05-07-2020,39.9,85.33
+Nova Scotia,05-08-2020,45.4,63.12
+Nova Scotia,05-09-2020,40.9,85.96
+Nova Scotia,05-10-2020,38.6,69.12
+Nova Scotia,05-11-2020,47.9,61.12
+Nova Scotia,05-12-2020,45.7,90.78
+Nova Scotia,05/13/2020,41.8,64.82
+Nova Scotia,05/14/2020,47.4,37.94
+Nova Scotia,05/15/2020,48.6,52.18
+Nova Scotia,05/16/2020,44.4,85.43
+Nova Scotia,05/17/2020,51.8,67.64
+Nova Scotia,05/18/2020,49.1,67.04
+Ontario,01/25/2020,37.4,90.47
+Ontario,01/26/2020,36.3,85.56
+Ontario,01/27/2020,34.7,75.85
+Ontario,01/28/2020,33.1,73.17
+Ontario,01/29/2020,25.3,63.16
+Ontario,01/30/2020,26.6,73.84
+Ontario,01/31/2020,29.9,75.4
+Ontario,02-01-2020,31.3,81.29
+Ontario,02-02-2020,33.6,90.01
+Ontario,02-03-2020,38.5,68.81
+Ontario,02-04-2020,35.4,61.29
+Ontario,02-05-2020,24.6,55.3
+Ontario,02-06-2020,25.7,81.52
+Ontario,02-07-2020,23.8,70.68
+Ontario,02-08-2020,15.9,60.53
+Ontario,02-09-2020,27.5,81.4
+Ontario,02-10-2020,36.1,77
+Ontario,02-11-2020,34.2,64.96
+Ontario,02-12-2020,32.1,65.92
+Ontario,02/13/2020,25.7,78.72
+Ontario,02/14/2020,8.5,57.77
+Ontario,02/15/2020,25.1,62.43
+Ontario,02/16/2020,34.8,63.27
+Ontario,02/17/2020,28.7,63.85
+Ontario,02/18/2020,36.2,79.23
+Ontario,02/19/2020,28.3,52.81
+Ontario,02/20/2020,20.8,56.97
+Ontario,02/21/2020,25.2,56.77
+Ontario,02/22/2020,34,56.22
+Ontario,02/23/2020,39.2,60.42
+Ontario,02/24/2020,41.6,63.65
+Ontario,02/25/2020,39.1,68.68
+Ontario,02/26/2020,32.8,79.17
+Ontario,02/27/2020,25.2,74
+Ontario,02/28/2020,23.8,67.02
+Ontario,02/29/2020,18.2,60.95
+Ontario,03-01-2020,29.1,63.18
+Ontario,03-02-2020,39.8,80.18
+Ontario,03-03-2020,37.9,84.7
+Ontario,03-04-2020,38.5,66.4
+Ontario,03-05-2020,35.9,57.58
+Ontario,03-06-2020,35.8,70.24
+Ontario,03-07-2020,31,52.55
+Ontario,03-08-2020,41.5,61.34
+Ontario,03-09-2020,50.8,50.93
+Ontario,03-10-2020,44.4,77.2
+Ontario,03-11-2020,33.9,70.78
+Ontario,03-12-2020,36.5,77.36
+Ontario,03/13/2020,42.5,62.7
+Ontario,03/14/2020,36.3,59.59
+Ontario,03/15/2020,32.9,42.6
+Ontario,03/16/2020,33.2,54.53
+Ontario,03/17/2020,40.2,68.16
+Ontario,03/18/2020,35.6,55.01
+Ontario,03/19/2020,40.1,79.56
+Ontario,03/20/2020,44.8,79.5
+Ontario,03/21/2020,26.2,53.18
+Ontario,03/22/2020,29,55.11
+Ontario,03/23/2020,36.5,87.25
+Ontario,03/24/2020,37.9,74.7
+Ontario,03/25/2020,39.8,77.5
+Ontario,03/26/2020,44.3,77.65
+Ontario,03/27/2020,40.6,70.97
+Ontario,03/28/2020,41,79.23
+Ontario,03/29/2020,47.3,80.98
+Ontario,03/30/2020,45.4,73.97
+Ontario,03/31/2020,41.9,86.54
+Ontario,04-01-2020,42.9,44.28
+Ontario,04-02-2020,47.5,37.09
+Ontario,04-03-2020,44.8,61.49
+Ontario,04-04-2020,46.6,78.76
+Ontario,04-05-2020,46.9,64.67
+Ontario,04-06-2020,45.1,54.31
+Ontario,04-07-2020,48.3,50.95
+Ontario,04-08-2020,48.3,66.59
+Ontario,04-09-2020,43.7,60.34
+Ontario,04-10-2020,39.1,53.8
+Ontario,04-11-2020,40.1,53.48
+Ontario,04-12-2020,45.9,59.95
+Ontario,04/13/2020,48.6,74.77
+Ontario,04/14/2020,38.2,54.83
+Ontario,04/15/2020,34.7,51.5
+Ontario,04/16/2020,34.3,49.84
+Ontario,04/17/2020,36.5,58.49
+Ontario,04/18/2020,39.8,65.77
+Ontario,04/19/2020,44.4,69.76
+Ontario,04/20/2020,37.3,59.3
+Ontario,04/21/2020,38.5,53.93
+Ontario,04/22/2020,35.5,42.24
+Ontario,04/23/2020,36.5,46.01
+Ontario,04/24/2020,45.2,33.78
+Ontario,04/25/2020,46.7,42.64
+Ontario,04/26/2020,48.3,53.07
+Ontario,04/27/2020,49.4,42.35
+Ontario,04/28/2020,46.8,61.74
+Ontario,04/29/2020,49.1,66.6
+Ontario,04/30/2020,50.2,90.12
+Ontario,05-01-2020,52.5,71.14
+Ontario,05-02-2020,50.8,60.73
+Ontario,05-03-2020,58.5,53.02
+Ontario,05-04-2020,47.5,49.39
+Ontario,05-05-2020,40.9,48.3
+Ontario,05-06-2020,46.4,41.22
+Ontario,05-07-2020,46.9,42.82
+Ontario,05-08-2020,37.1,43.25
+Ontario,05-09-2020,36.1,54.93
+Ontario,05-10-2020,41.4,62.2
+Ontario,05-11-2020,40.5,68.87
+Ontario,05-12-2020,40.4,47.5
+Ontario,05/13/2020,43.1,47.3
+Ontario,05/14/2020,45.6,62.74
+Ontario,05/15/2020,52.9,86.12
+Ontario,05/16/2020,53.6,74.07
+Ontario,05/17/2020,54.2,63.82
+Ontario,05/18/2020,53.4,81.74
+British Columbia,01/28/2020,45.2,93.27
+British Columbia,01/29/2020,46.1,89.25
+British Columbia,01/30/2020,43.6,89.72
+British Columbia,01/31/2020,49.5,90.93
+British Columbia,02-01-2020,45,76.29
+British Columbia,02-02-2020,38.7,80.88
+British Columbia,02-03-2020,36.4,77.09
+British Columbia,02-04-2020,37.2,87.29
+British Columbia,02-05-2020,39.1,95.38
+British Columbia,02-06-2020,41.5,95.27
+British Columbia,02-07-2020,43,92.11
+British Columbia,02-08-2020,44.6,75.95
+British Columbia,02-09-2020,39,81.42
+British Columbia,02-10-2020,41.7,80.2
+British Columbia,02-11-2020,45.4,82.66
+British Columbia,02-12-2020,43.5,85
+British Columbia,02/13/2020,43.1,86.17
+British Columbia,02/14/2020,43.3,79.85
+British Columbia,02/15/2020,43.8,85.04
+British Columbia,02/16/2020,42.4,77.42
+British Columbia,02/17/2020,39.3,76
+British Columbia,02/18/2020,38.7,77.74
+British Columbia,02/19/2020,40.4,70.51
+British Columbia,02/20/2020,41.8,67.89
+British Columbia,02/21/2020,42,77.72
+British Columbia,02/22/2020,44.5,78.35
+British Columbia,02/23/2020,43.4,84.45
+British Columbia,02/24/2020,42.3,69.66
+British Columbia,02/25/2020,41.3,76.18
+British Columbia,02/26/2020,44.5,87.26
+British Columbia,02/27/2020,45.8,86.36
+British Columbia,02/28/2020,42.7,87.79
+British Columbia,02/29/2020,43.3,74.92
+British Columbia,03-01-2020,40.3,77.49
+British Columbia,03-02-2020,43.8,89.37
+British Columbia,03-03-2020,46.4,81.35
+British Columbia,03-04-2020,44.4,68.08
+British Columbia,03-05-2020,42.9,79.49
+British Columbia,03-06-2020,41.8,69.71
+British Columbia,03-07-2020,39.9,77.76
+British Columbia,03-08-2020,38.7,75.24
+British Columbia,03-09-2020,38.8,73.84
+British Columbia,03-10-2020,42.5,80.27
+British Columbia,03-11-2020,45.4,69.41
+British Columbia,03-12-2020,41.4,73.48
+British Columbia,03/13/2020,39.8,60.74
+British Columbia,03/14/2020,34.5,40.64
+British Columbia,03/15/2020,37.5,37.07
+British Columbia,03/16/2020,42.6,53.4
+British Columbia,03/17/2020,42.6,65.67
+British Columbia,03/18/2020,43.7,75.74
+British Columbia,03/19/2020,42.5,85.56
+British Columbia,03/20/2020,45.1,80.28
+British Columbia,03/21/2020,44.7,81.54
+British Columbia,03/22/2020,44.4,80
+British Columbia,03/23/2020,44.1,74.03
+British Columbia,03/24/2020,42.1,84.61
+British Columbia,03/25/2020,43.5,75.13
+British Columbia,03/26/2020,43.8,79.23
+British Columbia,03/27/2020,45,88.9
+British Columbia,03/28/2020,47,89.83
+British Columbia,03/29/2020,47,76.27
+British Columbia,03/30/2020,42.9,81.72
+British Columbia,03/31/2020,42.4,77.59
+British Columbia,04-01-2020,42.6,71.67
+British Columbia,04-02-2020,41.7,71.65
+British Columbia,04-03-2020,40.9,76.84
+British Columbia,04-04-2020,42.2,68.74
+British Columbia,04-05-2020,44.8,63.78
+British Columbia,04-06-2020,45.2,63.76
+British Columbia,04-07-2020,46.8,70.67
+British Columbia,04-08-2020,47.9,64.78
+British Columbia,04-09-2020,47.6,71.75
+British Columbia,04-10-2020,48.1,82.74
+British Columbia,04-11-2020,49.5,63.95
+British Columbia,04-12-2020,50.2,32.63
+British Columbia,04/13/2020,48.7,48.2
+British Columbia,04/14/2020,49.9,65.92
+British Columbia,04/15/2020,51.4,72.2
+British Columbia,04/16/2020,53.8,48.2
+British Columbia,04/17/2020,48.2,79.83
+British Columbia,04/18/2020,50.7,82.5
+British Columbia,04/19/2020,49.9,78.85
+British Columbia,04/20/2020,50.8,78.73
+British Columbia,04/21/2020,50.4,73.56
+British Columbia,04/22/2020,48.7,92.67
+British Columbia,04/23/2020,51.3,80.31
+British Columbia,04/24/2020,50.5,80.3
+British Columbia,04/25/2020,51.2,80.44
+British Columbia,04/26/2020,51,74.85
+British Columbia,04/27/2020,51.4,74.34
+British Columbia,04/28/2020,49,80.35
+British Columbia,04/29/2020,52.6,72.79
+British Columbia,04/30/2020,52.2,69.58
+British Columbia,05-01-2020,52.5,68.68
+British Columbia,05-02-2020,51.3,79.44
+British Columbia,05-03-2020,48.6,75.82
+British Columbia,05-04-2020,49.7,73.15
+British Columbia,05-05-2020,54.1,72.25
+British Columbia,05-06-2020,52.2,64.18
+British Columbia,05-07-2020,52.8,66
+British Columbia,05-08-2020,62.8,42.99
+British Columbia,05-09-2020,66.5,42.04
+British Columbia,05-10-2020,68,43.34
+British Columbia,05-11-2020,58.9,64.02
+British Columbia,05-12-2020,54,85.34
+British Columbia,05/13/2020,53.4,83.78
+British Columbia,05/14/2020,52.8,79.1
+British Columbia,05/15/2020,53.3,76.7
+British Columbia,05/16/2020,54,85.73
+British Columbia,05/17/2020,53.6,87.72
+British Columbia,05/18/2020,53.9,78.84
+Quebec,02/27/2020,26.7,83.57
+Quebec,02/28/2020,14.5,73.78
+Quebec,02/29/2020,11.9,71.86
+Quebec,03-01-2020,16.3,70.44
+Quebec,03-02-2020,18,75.76
+Quebec,03-03-2020,33.4,87.91
+Quebec,03-04-2020,32.5,84.99
+Quebec,03-05-2020,29.3,54.93
+Quebec,03-06-2020,25.3,65.33
+Quebec,03-07-2020,20.4,50.85
+Quebec,03-08-2020,30.4,57.83
+Quebec,03-09-2020,24.5,80.95
+Quebec,03-10-2020,25.8,93.3
+Quebec,03-11-2020,21.5,72.44
+Quebec,03-12-2020,20,73.17
+Quebec,03/13/2020,32.5,81.9
+Quebec,03/14/2020,30.8,58.65
+Quebec,03/15/2020,20.3,49.75
+Quebec,03/16/2020,16.3,52.09
+Quebec,03/17/2020,29.3,78.01
+Quebec,03/18/2020,25.7,58
+Quebec,03/19/2020,30.7,63.24
+Quebec,03/20/2020,35.8,89.39
+Quebec,03/21/2020,21.3,46.89
+Quebec,03/22/2020,15.8,49.42
+Quebec,03/23/2020,22.9,61.32
+Quebec,03/24/2020,34,73.39
+Quebec,03/25/2020,32.5,63.77
+Quebec,03/26/2020,36,68.17
+Quebec,03/27/2020,35.7,81.41
+Quebec,03/28/2020,34.5,47.53
+Quebec,03/29/2020,35.4,67.09
+Quebec,03/30/2020,33.1,89.46
+Quebec,03/31/2020,34.7,62.8
+Quebec,04-01-2020,33.9,85.23
+Quebec,04-02-2020,35.1,93.49
+Quebec,04-03-2020,39.4,82.63
+Quebec,04-04-2020,38,77.57
+Quebec,04-05-2020,39.6,76.65
+Quebec,04-06-2020,38.4,53.99
+Quebec,04-07-2020,34,53.56
+Quebec,04-08-2020,31.7,57.01
+Quebec,04-09-2020,32.3,73.76
+Quebec,04-10-2020,34.7,76.75
+Quebec,04-11-2020,37,54.35
+Quebec,04-12-2020,39.6,60.88
+Quebec,04/13/2020,41.9,87.55
+Quebec,04/14/2020,40.2,54.36
+Quebec,04/15/2020,33.9,68.01
+Quebec,04/16/2020,30.4,62.96
+Quebec,04/17/2020,31.8,53.21
+Quebec,04/18/2020,34.7,48.2
+Quebec,04/19/2020,38.1,73.62
+Quebec,04/20/2020,30.3,58.59
+Quebec,04/21/2020,34.2,71.56
+Quebec,04/22/2020,27.1,62.04
+Quebec,04/23/2020,30.4,41.28
+Quebec,04/24/2020,38,33.68
+Quebec,04/25/2020,41.9,31.98
+Quebec,04/26/2020,43.7,34.5
+Quebec,04/27/2020,42,42.84
+Quebec,04/28/2020,43.3,52.91
+Quebec,04/29/2020,47,51.76
+Quebec,04/30/2020,43.5,83.09
+Quebec,05-01-2020,47.2,86.06
+Quebec,05-02-2020,50,55.82
+Quebec,05-03-2020,47.4,79.78
+Quebec,05-04-2020,44.2,82.77
+Quebec,05-05-2020,39.8,81.84
+Quebec,05-06-2020,46.5,48.8
+Quebec,05-07-2020,47.3,37.17
+Quebec,05-08-2020,38.3,63.05
+Quebec,05-09-2020,36.7,50.02
+Quebec,05-10-2020,38.7,48.91
+Quebec,05-11-2020,44.4,51.41
+Quebec,05-12-2020,38.6,50.82
+Quebec,05/13/2020,42.7,31.98
+Quebec,05/14/2020,52.7,25.57
+Quebec,05/15/2020,50.9,58.34
+Quebec,05/16/2020,53.1,70.86
+Quebec,05/17/2020,56.7,41.06
+Quebec,05/18/2020,51.4,33.42
+Alberta,03-05-2020,27.6,59.53
+Alberta,03-06-2020,21.3,72.46
+Alberta,03-07-2020,7.5,81.06
+Alberta,03-08-2020,10.1,72.25
+Alberta,03-09-2020,19.6,57.95
+Alberta,03-10-2020,25.7,50.09
+Alberta,03-11-2020,32.5,64.81
+Alberta,03-12-2020,23.9,70.38
+Alberta,03/13/2020,0.5,60.26
+Alberta,03/14/2020,0.4,71.38
+Alberta,03/15/2020,3.2,64.46
+Alberta,03/16/2020,20.4,53.84
+Alberta,03/17/2020,23.2,62.94
+Alberta,03/18/2020,16.7,67.15
+Alberta,03/19/2020,13.4,75.73
+Alberta,03/20/2020,17.3,65.85
+Alberta,03/21/2020,25.5,60.44
+Alberta,03/22/2020,30.6,56.23
+Alberta,03/23/2020,28.8,76.27
+Alberta,03/24/2020,23.8,76.2
+Alberta,03/25/2020,23.3,68.2
+Alberta,03/26/2020,31.2,55.66
+Alberta,03/27/2020,36.4,63.62
+Alberta,03/28/2020,19.3,72.7
+Alberta,03/29/2020,21.8,77.86
+Alberta,03/30/2020,14.7,80.1
+Alberta,03/31/2020,9.4,74.17
+Alberta,04-01-2020,5.4,66.87
+Alberta,04-02-2020,5.8,65.59
+Alberta,04-03-2020,10.6,65.92
+Alberta,04-04-2020,15.7,70.59
+Alberta,04-05-2020,16.5,79.04
+Alberta,04-06-2020,23.3,73.22
+Alberta,04-07-2020,33.6,54.39
+Alberta,04-08-2020,31.1,50.15
+Alberta,04-09-2020,36.7,57.58
+Alberta,04-10-2020,35,65.95
+Alberta,04-11-2020,24.9,49.29
+Alberta,04-12-2020,22.1,60.37
+Alberta,04/13/2020,25.6,54.26
+Alberta,04/14/2020,36.9,71.5
+Alberta,04/15/2020,33.6,63.52
+Alberta,04/16/2020,37.8,62.65
+Alberta,04/17/2020,45.4,62.48
+Alberta,04/18/2020,38.2,57.37
+Alberta,04/19/2020,45.4,51.5
+Alberta,04/20/2020,53.9,43.26
+Alberta,04/21/2020,55.6,38.2
+Alberta,04/22/2020,51.8,40.78
+Alberta,04/23/2020,49.8,39.48
+Alberta,04/24/2020,51.3,37.89
+Alberta,04/25/2020,52.5,35.66
+Alberta,04/26/2020,50.3,43.84
+Alberta,04/27/2020,49.2,49.92
+Alberta,04/28/2020,52.5,36.57
+Alberta,04/29/2020,57.5,33.35
+Alberta,04/30/2020,52.8,53.43
+Alberta,05-01-2020,50.3,49.96
+Alberta,05-02-2020,53,45.42
+Alberta,05-03-2020,53.3,51.25
+Alberta,05-04-2020,42.7,89.62
+Alberta,05-05-2020,49.9,62.62
+Alberta,05-06-2020,57.7,39.3
+Alberta,05-07-2020,57.1,44.23
+Alberta,05-08-2020,49.3,69.38
+Alberta,05-09-2020,44.4,60.79
+Alberta,05-10-2020,39.2,79.15
+Alberta,05-11-2020,45.2,45.7
+Alberta,05-12-2020,48.1,30.4
+Alberta,05/13/2020,49.5,34.72
+Alberta,05/14/2020,43.9,49.32
+Alberta,05/15/2020,51.2,42.51
+Alberta,05/16/2020,60.7,43.81
+Alberta,05/17/2020,61.3,49.09
+Alberta,05/18/2020,53.7,67.77
+Saskatchewan,03-12-2020,24.8,67.88
+Saskatchewan,03/13/2020,11.6,66.04
+Saskatchewan,03/14/2020,12.7,64.71
+Saskatchewan,03/15/2020,17.7,79.27
+Saskatchewan,03/16/2020,16.6,69.69
+Saskatchewan,03/17/2020,19.2,70.37
+Saskatchewan,03/18/2020,14.1,73.37
+Saskatchewan,03/19/2020,14.7,54.98
+Saskatchewan,03/20/2020,15.8,63.3
+Saskatchewan,03/21/2020,22.3,73.39
+Saskatchewan,03/22/2020,27.1,68.63
+Saskatchewan,03/23/2020,36.4,65.75
+Saskatchewan,03/24/2020,29.3,81.92
+Saskatchewan,03/25/2020,26.2,76.97
+Saskatchewan,03/26/2020,29.7,72.99
+Saskatchewan,03/27/2020,35.2,58.6
+Saskatchewan,03/28/2020,41.1,59.07
+Saskatchewan,03/29/2020,41.5,68.33
+Saskatchewan,03/30/2020,42.7,65.81
+Saskatchewan,03/31/2020,28.7,86.29
+Saskatchewan,04-01-2020,10.8,72.27
+Saskatchewan,04-02-2020,9.5,64.37
+Saskatchewan,04-03-2020,13.7,64.36
+Saskatchewan,04-04-2020,23,70.83
+Saskatchewan,04-05-2020,26.7,73.73
+Saskatchewan,04-06-2020,32.4,82.79
+Saskatchewan,04-07-2020,32.4,68.26
+Saskatchewan,04-08-2020,30.3,61.99
+Saskatchewan,04-09-2020,27.1,52.46
+Saskatchewan,04-10-2020,38.1,56.39
+Saskatchewan,04-11-2020,24.7,61.62
+Saskatchewan,04-12-2020,18.8,65.63
+Saskatchewan,04/13/2020,14.9,67.28
+Saskatchewan,04/14/2020,19.6,51.3
+Saskatchewan,04/15/2020,26.6,44.32
+Saskatchewan,04/16/2020,25.4,66.87
+Saskatchewan,04/17/2020,39.9,53.79
+Saskatchewan,04/18/2020,34.8,60.16
+Saskatchewan,04/19/2020,38,51.86
+Saskatchewan,04/20/2020,39.2,50.35
+Saskatchewan,04/21/2020,50.9,38.85
+Saskatchewan,04/22/2020,48.2,53.41
+Saskatchewan,04/23/2020,49.7,50.5
+Saskatchewan,04/24/2020,43.3,62.94
+Saskatchewan,04/25/2020,45,57.62
+Saskatchewan,04/26/2020,51.3,44.59
+Saskatchewan,04/27/2020,48.9,47.86
+Saskatchewan,04/28/2020,45.4,71.77
+Saskatchewan,04/29/2020,53.3,51.61
+Saskatchewan,04/30/2020,60.3,46.87
+Saskatchewan,05-01-2020,55.6,54.45
+Saskatchewan,05-02-2020,48.2,60.05
+Saskatchewan,05-03-2020,46,58.84
+Saskatchewan,05-04-2020,48.8,67.9
+Saskatchewan,05-05-2020,46.9,68.83
+Saskatchewan,05-06-2020,52.5,50.44
+Saskatchewan,05-07-2020,48.1,36.7
+Saskatchewan,05-08-2020,46.6,46.78
+Saskatchewan,05-09-2020,37.9,62.78
+Saskatchewan,05-10-2020,37.9,40.98
+Saskatchewan,05-11-2020,36.7,45.36
+Saskatchewan,05-12-2020,43.9,37.68
+Saskatchewan,05/13/2020,42.1,78.37
+Saskatchewan,05/14/2020,50.8,52.69
+Saskatchewan,05/15/2020,47.5,53.75
+Saskatchewan,05/16/2020,57.1,42.39
+Saskatchewan,05/17/2020,62.6,37.73
+Saskatchewan,05/18/2020,65.7,42.89
+Manitoba,03-12-2020,29.8,73.15
+Manitoba,03/13/2020,14,69.07
+Manitoba,03/14/2020,9.5,71.8
+Manitoba,03/15/2020,18.2,70.95
+Manitoba,03/16/2020,21.3,67.55
+Manitoba,03/17/2020,20.8,66.3
+Manitoba,03/18/2020,14.3,58.27
+Manitoba,03/19/2020,12.5,48.06
+Manitoba,03/20/2020,9.6,48.57
+Manitoba,03/21/2020,16.8,55.04
+Manitoba,03/22/2020,28.4,73.25
+Manitoba,03/23/2020,31.9,63.53
+Manitoba,03/24/2020,35.3,83.13
+Manitoba,03/25/2020,25.1,70.1
+Manitoba,03/26/2020,29.4,74.56
+Manitoba,03/27/2020,37.4,70.4
+Manitoba,03/28/2020,36.7,66.42
+Manitoba,03/29/2020,34.7,74.22
+Manitoba,03/30/2020,41,56.16
+Manitoba,03/31/2020,45.6,46.05
+Manitoba,04-01-2020,43.6,52.34
+Manitoba,04-02-2020,23.1,87.73
+Manitoba,04-03-2020,16.2,72.82
+Manitoba,04-04-2020,16.8,62.2
+Manitoba,04-05-2020,31.2,66.12
+Manitoba,04-06-2020,41.3,66.41
+Manitoba,04-07-2020,40,66.33
+Manitoba,04-08-2020,35.4,68.37
+Manitoba,04-09-2020,28.1,69.02
+Manitoba,04-10-2020,37.3,63.93
+Manitoba,04-11-2020,32.4,58.25
+Manitoba,04-12-2020,26.1,49.97
+Manitoba,04/13/2020,19.1,56.95
+Manitoba,04/14/2020,20.7,52.64
+Manitoba,04/15/2020,26.4,46.79
+Manitoba,04/16/2020,30.6,48.41
+Manitoba,04/17/2020,38.6,49.93
+Manitoba,04/18/2020,38.8,61.85
+Manitoba,04/19/2020,35.8,53.16
+Manitoba,04/20/2020,33.5,60.71
+Manitoba,04/21/2020,30.2,54.83
+Manitoba,04/22/2020,41.9,45.12
+Manitoba,04/23/2020,49.2,49.89
+Manitoba,04/24/2020,48.9,54.2
+Manitoba,04/25/2020,45.7,62.32
+Manitoba,04/26/2020,52.9,51.19
+Manitoba,04/27/2020,53.2,54.23
+Manitoba,04/28/2020,50.5,62.81
+Manitoba,04/29/2020,50.4,53.87
+Manitoba,04/30/2020,58.1,43.14
+Manitoba,05-01-2020,57.8,57.29
+Manitoba,05-02-2020,44.5,63.7
+Manitoba,05-03-2020,37.8,64.15
+Manitoba,05-04-2020,43.2,59.98
+Manitoba,05-05-2020,49.8,46.04
+Manitoba,05-06-2020,44.5,43.99
+Manitoba,05-07-2020,38,43.09
+Manitoba,05-08-2020,36.8,49.89
+Manitoba,05-09-2020,39.6,46.06
+Manitoba,05-10-2020,37.6,42.38
+Manitoba,05-11-2020,34.6,39.86
+Manitoba,05-12-2020,41.3,25.82
+Manitoba,05/13/2020,42.9,66.99
+Manitoba,05/14/2020,46.8,85.32
+Manitoba,05/15/2020,46.5,71.21
+Manitoba,05/16/2020,54.2,53.09
+Manitoba,05/17/2020,63.8,40.56
+Manitoba,05/18/2020,66.7,31.15
+New Brunswick,03-12-2020,27.5,57.85
+New Brunswick,03/13/2020,29.5,78.85
+New Brunswick,03/14/2020,35.9,56.51
+New Brunswick,03/15/2020,24.1,53.04
+New Brunswick,03/16/2020,21.2,50.21
+New Brunswick,03/17/2020,25.6,79.24
+New Brunswick,03/18/2020,31.1,58.81
+New Brunswick,03/19/2020,30.3,60.56
+New Brunswick,03/20/2020,38.5,96.18
+New Brunswick,03/21/2020,33.1,46.26
+New Brunswick,03/22/2020,18,42.79
+New Brunswick,03/23/2020,20.3,59.42
+New Brunswick,03/24/2020,31.6,85.98
+New Brunswick,03/25/2020,32.5,67.39
+New Brunswick,03/26/2020,34.8,59.53
+New Brunswick,03/27/2020,33.6,76.28
+New Brunswick,03/28/2020,37.9,52.87
+New Brunswick,03/29/2020,36.2,49.84
+New Brunswick,03/30/2020,34,62.56
+New Brunswick,03/31/2020,32.8,63.57
+New Brunswick,04-01-2020,33.7,91.75
+New Brunswick,04-02-2020,38.9,92.58
+New Brunswick,04-03-2020,39.4,83.85
+New Brunswick,04-04-2020,35.3,75.16
+New Brunswick,04-05-2020,39.6,64.28
+New Brunswick,04-06-2020,42.2,54.42
+New Brunswick,04-07-2020,34.7,48.29
+New Brunswick,04-08-2020,34.6,52.82
+New Brunswick,04-09-2020,33.1,69.23
+New Brunswick,04-10-2020,31.5,88.71
+New Brunswick,04-11-2020,35.4,71.41
+New Brunswick,04-12-2020,40.9,52.54
+New Brunswick,04/13/2020,42.8,87.56
+New Brunswick,04/14/2020,48.3,56.54
+New Brunswick,04/15/2020,40.8,45.72
+New Brunswick,04/16/2020,35.3,46
+New Brunswick,04/17/2020,34.8,51.56
+New Brunswick,04/18/2020,35.1,53.43
+New Brunswick,04/19/2020,40.8,50.92
+New Brunswick,04/20/2020,40,50.37
+New Brunswick,04/21/2020,37.6,42.89
+New Brunswick,04/22/2020,33.9,71.62
+New Brunswick,04/23/2020,33.3,49.17
+New Brunswick,04/24/2020,41.4,32.95
+New Brunswick,04/25/2020,42.6,36.11
+New Brunswick,04/26/2020,44.3,44.44
+New Brunswick,04/27/2020,43,37.11
+New Brunswick,04/28/2020,42,44.57
+New Brunswick,04/29/2020,45,50.67
+New Brunswick,04/30/2020,42.3,63.84
+New Brunswick,05-01-2020,48.9,84.6
+New Brunswick,05-02-2020,49.1,69.8
+New Brunswick,05-03-2020,47.1,62.78
+New Brunswick,05-04-2020,46.6,90.19
+New Brunswick,05-05-2020,37.8,80.72
+New Brunswick,05-06-2020,45,60.83
+New Brunswick,05-07-2020,44.3,55.93
+Newfoundland and Labrador,03/14/2020,31.1,85.41
+Newfoundland and Labrador,03/15/2020,28.5,71.5
+Newfoundland and Labrador,03/16/2020,19.8,65.72
+Newfoundland and Labrador,03/17/2020,20.5,69.52
+Newfoundland and Labrador,03/18/2020,32.4,85.61
+Newfoundland and Labrador,03/19/2020,25.5,65.99
+Newfoundland and Labrador,03/20/2020,26.1,79.7
+Newfoundland and Labrador,03/21/2020,36.3,83.49
+Newfoundland and Labrador,03/22/2020,21.8,64.74
+Newfoundland and Labrador,03/23/2020,23.1,60.21
+Newfoundland and Labrador,03/24/2020,26.9,80.75
+Newfoundland and Labrador,03/25/2020,30.3,95.64
+Newfoundland and Labrador,03/26/2020,28.3,86.79
+Newfoundland and Labrador,03/27/2020,33.5,98.96
+Newfoundland and Labrador,03/28/2020,33,93.11
+Newfoundland and Labrador,03/29/2020,30.2,96.5
+Newfoundland and Labrador,03/30/2020,30.6,98.3
+Newfoundland and Labrador,03/31/2020,33.1,98.59
+Newfoundland and Labrador,04-01-2020,37.3,99.11
+Newfoundland and Labrador,04-02-2020,35.2,99.37
+Newfoundland and Labrador,04-03-2020,32.3,98.5
+Newfoundland and Labrador,04-04-2020,29.5,85.69
+Newfoundland and Labrador,04-05-2020,27,82.34
+Newfoundland and Labrador,04-06-2020,29,80.32
+Newfoundland and Labrador,04-07-2020,31.3,75.99
+Newfoundland and Labrador,04-08-2020,28.6,66.3
+Newfoundland and Labrador,04-09-2020,30.3,69.98
+Newfoundland and Labrador,04-10-2020,30.6,89.15
+Newfoundland and Labrador,04-11-2020,38,80.69
+Newfoundland and Labrador,04-12-2020,36.8,68.08
+Newfoundland and Labrador,04/13/2020,37.1,62.63
+Newfoundland and Labrador,04/14/2020,41.2,87.97
+Newfoundland and Labrador,04/15/2020,39.2,84.2
+Newfoundland and Labrador,04/16/2020,34.8,87.17
+Newfoundland and Labrador,04/17/2020,31.7,62.32
+Newfoundland and Labrador,04/18/2020,31.8,60.8
+Newfoundland and Labrador,04/19/2020,30.4,93.87
+Newfoundland and Labrador,04/20/2020,36.6,87.82
+Newfoundland and Labrador,04/21/2020,33.8,92.13
+Newfoundland and Labrador,04/22/2020,35.6,78.37
+Newfoundland and Labrador,04/23/2020,36.3,75.47
+Newfoundland and Labrador,04/24/2020,36.9,63.38
+Newfoundland and Labrador,04/25/2020,33.7,92.89
+Newfoundland and Labrador,04/26/2020,38,60.4
+Newfoundland and Labrador,04/27/2020,35.9,55.4
+Newfoundland and Labrador,04/28/2020,32.1,81.39
+Newfoundland and Labrador,04/29/2020,33.3,80.56
+Newfoundland and Labrador,04/30/2020,34,79.68
+Newfoundland and Labrador,05-01-2020,46.3,40.92
+Newfoundland and Labrador,05-02-2020,47.5,65.3
+Newfoundland and Labrador,05-03-2020,42.2,98.65
+Newfoundland and Labrador,05-04-2020,36.6,86.64
+Newfoundland and Labrador,05-05-2020,36.2,96.37
+Newfoundland and Labrador,05-06-2020,38.1,91.98
+Newfoundland and Labrador,05-07-2020,38.5,80.23
+Prince Edward Island,03/14/2020,35.5,69
+Prince Edward Island,03/15/2020,24,65.38
+Prince Edward Island,03/16/2020,21.2,77.43
+Prince Edward Island,03/17/2020,25.9,81.36
+Prince Edward Island,03/18/2020,31.5,62.92
+Prince Edward Island,03/19/2020,27.3,57.85
+Prince Edward Island,03/20/2020,39.3,93.02
+Prince Edward Island,03/21/2020,35,59.65
+Prince Edward Island,03/22/2020,17.3,56.37
+Prince Edward Island,03/23/2020,23.3,63.21
+Prince Edward Island,03/24/2020,29,89.9
+Prince Edward Island,03/25/2020,30.6,79.62
+Prince Edward Island,03/26/2020,29.7,85.88
+Prince Edward Island,03/27/2020,30.1,93.6
+Prince Edward Island,03/28/2020,33,55.12
+Prince Edward Island,03/29/2020,29,62.3
+Prince Edward Island,03/30/2020,29.2,80
+Prince Edward Island,03/31/2020,29.5,94.54
+Prince Edward Island,04-01-2020,32.1,99.54
+Prince Edward Island,04-02-2020,40.5,92.01
+Prince Edward Island,04-03-2020,36.6,86.47
+Prince Edward Island,04-04-2020,30.5,86.15
+Prince Edward Island,04-05-2020,32.5,75.47
+Prince Edward Island,04-06-2020,37,71.27
+Prince Edward Island,04-07-2020,32.1,61.2
+Prince Edward Island,04-08-2020,31.1,70.62
+Prince Edward Island,04-09-2020,34,62
+Prince Edward Island,04-10-2020,34.6,82.15
+Prince Edward Island,04-11-2020,35.1,74.75
+Prince Edward Island,04-12-2020,38.9,58.24
+Prince Edward Island,04/13/2020,42.8,77.91
+Prince Edward Island,04/14/2020,51.1,68.06
+Prince Edward Island,04/15/2020,40.3,58.33
+Prince Edward Island,04/16/2020,35.3,65.41
+Prince Edward Island,04/17/2020,35.1,49.9
+Prince Edward Island,04/18/2020,33.7,61.75
+Prince Edward Island,04/19/2020,32.3,74.91
+Prince Edward Island,04/20/2020,39.6,65.19
+Prince Edward Island,04/21/2020,36.3,62.45
+Prince Edward Island,04/22/2020,38.8,65.56
+Prince Edward Island,04/23/2020,32.1,55.37
+Prince Edward Island,04/24/2020,41.6,42.76
+Prince Edward Island,04/25/2020,39.7,53.12
+Prince Edward Island,04/26/2020,41.5,38.66
+Prince Edward Island,04/27/2020,38.3,57.07
+Prince Edward Island,04/28/2020,36.8,65.63
+Yukon,03/14/2020,7.9,59.41
+Yukon,03/15/2020,14.3,59.94
+Yukon,03/16/2020,23.5,50.71
+Yukon,03/17/2020,21.8,55.99
+Yukon,03/18/2020,23.1,75.47
+Yukon,03/19/2020,29.7,72.88
+Yukon,03/20/2020,29.7,64.85
+Yukon,03/21/2020,27.5,64.13
+Yukon,03/22/2020,27.6,71.99
+Yukon,03/23/2020,19.9,49.35
+Yukon,03/24/2020,26,68.17
+Yukon,03/25/2020,32.5,56.58
+Yukon,03/26/2020,30.1,64.72
+Yukon,03/27/2020,11.4,39.13
+Yukon,03/28/2020,-1.1,47.52
+Yukon,03/29/2020,3,44.74
+Yukon,03/30/2020,0.2,46.79
+Yukon,03/31/2020,3.9,49.02
+Yukon,04-01-2020,9,49.05
+Yukon,04-02-2020,14.6,51
+Yukon,04-03-2020,18.2,57.74
+Yukon,04-04-2020,25.5,66.07
+Yukon,04-05-2020,27,55.59
+Yukon,04-06-2020,29.7,61.21
+Yukon,04-07-2020,22,57.2
+Yukon,04-08-2020,29.5,59.37
+Yukon,04-09-2020,25.1,59.64
+Yukon,04-10-2020,20,45.81
+Yukon,04-11-2020,24.5,42.59
+Yukon,04-12-2020,34.2,42.2
+Yukon,04/13/2020,40.8,52.06
+Yukon,04/14/2020,41.9,56.75
+Yukon,04/15/2020,43.1,57
+Yukon,04/16/2020,43.4,74.61
+Yukon,04/17/2020,44.2,61.12
+Yukon,04/18/2020,44.4,52.25
+Yukon,04/19/2020,46.1,51.38
+Yukon,04/20/2020,46.2,52.03
+Yukon,04/21/2020,42.2,56.08
+Yukon,04/22/2020,41.1,66.91
+Yukon,04/23/2020,39.2,76.92
+Yukon,04/24/2020,39.5,54.73
+Yukon,04/25/2020,31.8,63
+Yukon,04/26/2020,36,44.05
+Yukon,04/27/2020,43,57.58
+Yukon,04/28/2020,42.3,52.81
+Northwest Territories,03/21/2020,25.1,78.05
+Northwest Territories,03/22/2020,24.2,78.13
+Northwest Territories,03/23/2020,6.7,64.22
+Northwest Territories,03/24/2020,-5.9,68.68
+Northwest Territories,03/25/2020,14.1,73.07
+Northwest Territories,03/26/2020,8.7,65.69
+Northwest Territories,03/27/2020,-4.2,68.47
+Northwest Territories,03/28/2020,-14,62.15
+Northwest Territories,03/29/2020,-11.4,58.21
+Northwest Territories,03/30/2020,-5.4,53.19
+Northwest Territories,03/31/2020,-4.2,52.2
+Northwest Territories,04-01-2020,-3.4,53.35
+Northwest Territories,04-02-2020,-5.5,69.86
+Northwest Territories,04-03-2020,2.4,75.39
+Northwest Territories,04-04-2020,3,62.74
+Northwest Territories,04-05-2020,13.7,56.25
+Northwest Territories,04-06-2020,19.3,68.7
