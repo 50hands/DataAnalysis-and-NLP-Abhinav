@@ -100,6 +100,7 @@ df=pd.merge(df,pop,how='left',left_on=['country_region','sub_region_1','sub_regi
 df=df.fillna(0)
 df=df.replace(to_replace='',value='0')
 df=df.replace(to_replace=' ',value='0')
-writer=pd.ExcelWriter('GoogleMobilityData2.xlsx',engine='xlsxwriter')
+writer=pd.ExcelWriter('GoogleMobilityData.xlsx',engine='xlsxwriter')
 df.to_excel(writer,sheet_name='Sheet1',index=False)
 writer.save()
+df.to_sql('us&ca_googlemobility',con=engine,if_exists='replace',index=True)
