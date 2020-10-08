@@ -10,7 +10,7 @@ emotions=('angry','disgust','fear','happy','sad','surprise','neutral')
 facecascade=cv2.CascadeClassifier('Softwares/Emotion Recognition/haarcascade_frontalface_default.xml')
 cap=cv2.VideoCapture(0,cv2.CAP_DSHOW)
 frame=0
-dict={'angry':0,'disgust':0,'fear':0,'happy':0,'sad':0,'surprise':0,'neutral':0}
+dict={'angry':[],'disgust':[],'fear':[],'happy':[],'sad':[],'surprise':[],'neutral':[]}
 while(True):
     ret,img=cap.read()
     img=cv2.resize(img,(640,360))
@@ -37,19 +37,18 @@ while(True):
             emotion=''
             for i in range(len(predictions[0])):
                 emotion='%s %s%s'%(emotions[i],round(predictions[0][i]*100,2),'%')
-                dict[emotions[i]]+=round(predictions[0][i]*100,2)
+                dict[emotions[i]].append(round(predictions[0][i]*100,2))
                 color=(255,255,255)
                 cv2.putText(img,emotion,(int(x+w+15),int(y-12+i*20)),cv2.FONT_HERSHEY_SIMPLEX,0.5,color,1)
     cv2.imshow('img',img)
     frame=frame+1
-    if frame>50:
+    if frame>30:
         break
     if cv2.waitKey(1) & 0xFF==ord('q'):
         break
 cap.release()
 cv2.destroyAllWindows()
-print('Facial Emotion Analysis:',end='\n\n')
+emotionlist=[]
 for i in dict.items():
-    print(i[0]+':',str(round(i[1]*100/sum(list(dict.values())),2))+'%')
-dict=sorted(dict.items(),key=lambda x:x[1],reverse=True)
-print('\nThe prominent emotions shown are:',dict[0][0],'and',dict[1][0]+'.')
+    emotionlist.append(np.mean(dict[i[0]]))
+print('The prominent emotion shown is:',list(emotions)[np.argmax(emotionlist)])
