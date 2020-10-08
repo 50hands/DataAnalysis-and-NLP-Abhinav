@@ -5,9 +5,9 @@ import cv2
 import numpy as np
 import warnings
 warnings.filterwarnings('ignore')
-model=tf.keras.models.load_model('C:\\Users\\ABHINAV\\Desktop\\MYFiles\\Data Science and Machine Learning Specializations\\Softwares\\Emotion Recognition\\model',custom_objects=None,compile=True,options=None)
+model=tf.keras.models.load_model('Softwares/Emotion Recognition/model',custom_objects=None,compile=True,options=None)
 emotions=('angry','disgust','fear','happy','sad','surprise','neutral')
-facecascade=cv2.CascadeClassifier('C:\\Users\\ABHINAV\\Desktop\\MYFiles\\Data Science and Machine Learning Specializations\\Softwares\\Emotion Recognition\\haarcascade_frontalface_default.xml')
+facecascade=cv2.CascadeClassifier('Softwares/Emotion Recognition/haarcascade_frontalface_default.xml')
 cap=cv2.VideoCapture(0,cv2.CAP_DSHOW)
 frame=0
 dict={'angry':0,'disgust':0,'fear':0,'happy':0,'sad':0,'surprise':0,'neutral':0}
