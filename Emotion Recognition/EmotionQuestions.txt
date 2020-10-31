@@ -1,0 +1,69 @@
+When I got up in the morning, I felt
+A. Moody & Irritable
+B. Uneasy
+C. Enthusiastic
+D. Affectionate
+E. Downhearted
+F. Joyous
+input = When I got up in the morning, I felt + (answer)
+
+How well do you sleep usually?
+A. I have a healthy sleeping pattern.
+B. I sleep fine most nights.
+C. I sleep too much, cannot seem to get myself out of bed.
+D. I have a hard time falling or staying asleep.
+E. I have frequent nightmares.
+F. I frequently wake up feeling angry or dissatisfied.
+input = (answer)
+
+How easy is it to talk about your feelings?
+A. Talking about my feelings brings me joy.
+B. I do not have anyone to talk to about my feelings.
+C. Some feelings are hard to talk about, but I do it because I know it is healthy to talk things out.
+D. I do not trust anyone so I have a hard time opening up to others.
+E. I find it impossible to talk about my feelings.
+F. The idea of talking about feelings makes me angry.
+input = (answer)
+
+How would you describe your heartbeat right now?
+A. Super fast.
+B. Happily.
+C. Slowly, barely keeping me alive.
+input = My heart is beating + (answer)
+
+Did something negative happen recently?
+A. No, everything has been great!!
+B. I woke up tensed and anxious.
+C. Yes and it was not fair.
+D. Yes, something bad happened recently.
+E. No, but I have the feeling something bad will happen soon!
+input = (answer)
+
+What would you do during a traffic jam?
+A. Honk my horn and give people the finger.
+B. Play my favourite song on repeat.
+C. Just sit there and endure.
+D. Check my phone for new messages.
+E. Keep checking my watch and calculating how many minutes I have left to arrive on time.
+F. Smile and wink at other drivers.
+input = (answer)
+
+Have you recently done any activities that make you happy?
+A. Yes, I frequently do things that make me happy.
+B. No, I have not had the time.
+input = (answer)
+
+How do you feel about yourself right now?
+A. I am proud of myself.
+B. I am better than everyone.
+C. I am the worst.
+D. I am scared about the future.
+input = (answer)
+
+Assume you just finished an important task, what would you do on the following weekend?
+A. Go to a party and have fun.
+B. Stay at home and read.
+C. Hangout with my friends.
+D. Stay at home and think about what the future holds.
+E. Do nothing.
+input = I would + (answer)
