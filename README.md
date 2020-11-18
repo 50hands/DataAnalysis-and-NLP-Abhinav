@@ -1,5 +1,6 @@
 <h1>Data Analysis and NLP</h1>
 <body>
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fabhinavyesss"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/abhinavyesss?style=social">
   <p style="font-family: 'Lora', serif;">All the work done, code written, files created and visualizations made by me while interning at 50Hands.</p>
 
   <h3><b>For Emotion Recognition:</b></h3>
