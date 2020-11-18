@@ -1,6 +1,5 @@
 <h1>Data Analysis and NLP</h1>
 <body>
-  [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
   <p style="font-family: 'Lora', serif;">All the work done, code written, files created and visualizations made by me while interning at 50Hands.</p>
 
   <h3><b>For Emotion Recognition:</b></h3>
