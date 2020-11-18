@@ -59,7 +59,7 @@
   <p>For reference: <a href='https://github.com/openai/gpt-2'>https://github.com/openai/gpt-2</a></p>
   
   <br>
-  <p><a href="https://GitHub.com/Naereen/"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="ForTheBadge built-by-developers"></a> <a href="https://GitHub.com/Naereen/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love"></a></p>
+  <p><a href="https://GitHub.com/abhinavyesss/"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="ForTheBadge built-by-developers"></a> <a href="https://GitHub.com/abhinavyesss/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love"></a> <a href="https://GitHub.com/abhinavyesss/"><img src="http://ForTheBadge.com/images/badges/built-with-science.svg" alt="ForTheBadge built-with-science"></a></p>
   <br>
   <p><a href="http://ForTheBadge.com"><img src="http://ForTheBadge.com/images/badges/winter-is-coming.svg" alt="ForTheBadge winter-is-coming"></a></p>
 </body>
