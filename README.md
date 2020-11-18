@@ -12,7 +12,8 @@
 
   <h3><b>For Emotion Recognition:</b></h3>
   <h5><b>ML & NLP</b></h5>
-  <p><a href="https://drive.google.com/drive/u/0/folders/1MtAnQD1dNga5HMzcsg5VSSvkwnEoksBT"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Collab"></a></p>
+  <p><a href="https://drive.google.com/drive/u/0/folders/1MtAnQD1dNga5HMzcsg5VSSvkwnEoksBT"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></p>
+  <p><img src="https://images.unsplash.com/photo-1575278220902-cdf1a07a0421?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=250&amp;q=80" alt=""></p>
   <p>A program was made, using Python, that detects emotion based on textual and facial features.</p>
   <p>For textual emotion recognition, LSTM was used to train the model.</p>
   <p>For facial emotion recognition, a CNN network was used to train the model.</p>
@@ -22,6 +23,7 @@
   <h5><b>Planning, Scraping & Visualization</b></h5>
   <p><a href="https://drive.google.com/drive/u/0/folders/1GgrZ5KRxKnZ8ciTZyXnJf7V6xogkKPyG"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Collab"></a></p>
   <p>Using Tableau, visualizations were made to show important trends and statistics in relation to the 2020 US elections.</p>
+  <p><img src="https://images.unsplash.com/photo-1600985325748-3985be662a62?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=250&amp;q=80" alt=""></p>
   <p>Some of the trends shown are:</p>
   <ul>
     <li>Voting with respect to geography i.e., state and counties.</li>
