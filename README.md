@@ -1,6 +1,6 @@
 <h1>Data Analysis and NLP</h1>
 <body>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/50hands/DataAnalysis-and-NLP-Abhinav">
+  <p><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/50hands/DataAnalysis-and-NLP-Abhinav"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/50hands/DataAnalysis-and-NLP-Abhinav"></p>
   <p style="font-family: 'Lora', serif;">All the work done, code written, files created and visualizations made by me while interning at 50Hands.</p>
 
   <h3><b>For Emotion Recognition:</b></h3>
