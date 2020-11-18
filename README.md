@@ -58,5 +58,8 @@
   <p>A few modifications were made to put the generated quotes into a CSV file, so that a quote could be extracted when the API for that is called in negligible time.</p>
   <p>For reference: <a href='https://github.com/openai/gpt-2'>https://github.com/openai/gpt-2</a></p>
   
-  <br><p><b>Tools Used:</b> Tableau, Python and Google Colab.</p>
+  <br>
+  <p><a href="https://GitHub.com/Naereen/"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="ForTheBadge built-by-developers"></a> <a href="https://GitHub.com/Naereen/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love"></a></p>
+  <br>
+  <p><a href="http://ForTheBadge.com"><img src="http://ForTheBadge.com/images/badges/winter-is-coming.svg" alt="ForTheBadge winter-is-coming"></a></p>
 </body>
