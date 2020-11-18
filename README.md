@@ -1,10 +1,29 @@
 <h1>Data Analysis and NLP</h1>
 <body>
+  [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
   <p style="font-family: 'Lora', serif;">All the work done, code written, files created and visualizations made by me while interning at 50Hands.</p>
 
+  <h3><b>For Emotion Recognition:</b></h3>
+  <h5><b>ML & NLP</b></h5>
+  <p>A program was made, using Python, that detects emotion based on textual and facial features.</p>
+  <p>For textual emotion recognition, LSTM was used to train the model.</p>
+  <p>For facial emotion recognition, a CNN network was used to train the model.</p>
+  <p>The models were trained using Colab since it offers a GPU, hence faster computations.</p>
+  
+  <h3><b>For the 2020 US Elections:</b></h3>
+  <h5><b>Planning, Scraping & Visualization</b></h5>
+  <p>Using Tableau, visualizations were made to show important trends and statistics in relation to the 2020 US elections.</p>
+  <p>Some of the trends shown are:</p>
+  <ul>
+    <li>Voting with respect to geography i.e., state and counties.</li>
+    <li>Voting with respect to populations in all the states and counties.</li>
+    <li>A state's Democratic or Republican preference with voter demographic population as a factor.</li>
+    <li>A region's Democratic or Republican preference with median income and poverty level as a factor, for both, states and counties.</li>
+  </ul>
+  
   <h3><b>For Canada, India and USA:</b></h3>
   <h5><b>Visualization</b></h5>
-  <p>Using Tableau, visualizations made to show important Coronavirus parameters.</p>
+  <p>Using Tableau, visualizations were made to show important Coronavirus parameters.</p>
   
   <h3><b>For Google Mobility:</b></h3>
   <h5><b>Scraping & Visualization</b></h5>
