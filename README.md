@@ -5,7 +5,8 @@
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/50hands/DataAnalysis-and-NLP-Abhinav"></p>
   <p>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="made-with-python"></a> 
-    <a href="https://public.tableau.com/s/"><img src="https://img.shields.io/badge/Made with-Tableau-pink.svg" alt="Generic badge"></a>
+    <a href="https://public.tableau.com/s/"><img src="https://img.shields.io/badge/Made with-Tableau-pink.svg" alt="Generic badge"></a> 
+    <a href="https://colab.research.google.com/notebooks/intro.ipynb"><img src="https://img.shields.io/badge/Made with-Colab-turquoise.svg" alt="Generic badge"></a>
   </p>
   <p style="font-family: 'Lora', serif;">All the work done, code written, files created and visualizations made by me while interning at 50Hands.</p>
 
